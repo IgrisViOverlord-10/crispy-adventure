@@ -143,10 +143,10 @@ http://127.0.0.1:5000/
 ## 📸 Output Screenshots
 
 ### Input Page
-![Input](snapshots/Snap-1.png)
+![Input](Snapshots/Snap-1.png)
 
 ### Predicted Price Output
-![Output](snapshots/Snap-2.png)
+![Output](Snapshots/Snap-2.png)
 
 ---
 
