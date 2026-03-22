@@ -61,15 +61,15 @@ The dataset includes the following key attributes:
 
 ## ⚙️ Data Preprocessing
 
-* Handled missing values using domain-specific logic
-* Removed irrelevant columns
-* Applied **One-Hot Encoding** for categorical variables
-* Standardized numerical features
-* Performed outlier removal based on:
-
-  * Square feet per BHK
-  * Price per square foot
-  * Location-based filtering
+## ⚙️ Data Preprocessing
+- Handled missing values using domain-specific logic  
+- Removed irrelevant columns  
+- Applied One-Hot Encoding for categorical variables  
+- Standardized numerical features  
+- Performed outlier removal based on:
+  - Square feet per BHK  
+  - Price per square foot  
+  - Location-based filtering  
 
 ---
 
