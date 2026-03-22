@@ -4,7 +4,7 @@
 
 This project predicts house prices in Bangalore using machine learning techniques based on key features such as location, total square feet, number of bedrooms (BHK), and bathrooms.
 
-Developed in **2023 as an academic group project**, it demonstrates an end-to-end ML workflow — from data preprocessing and feature engineering to model training and deployment using a Flask web application.
+Developed in **2023 as an academic group project**, it demonstrates an end-to-end ML workflow from data preprocessing and feature engineering to model training and deployment using a Flask web application.
 
 ---
 
