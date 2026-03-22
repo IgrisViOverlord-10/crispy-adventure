@@ -177,19 +177,6 @@ http://127.0.0.1:5000/
 
 ---
 
-## 🔗 GitHub Repository
-
-👉 **GitHub Repository - Bangalore House Price Prediction**
-(Add your repository link here)
-
----
-
-## 🏷️ Tags
-
-Machine Learning • Python • Flask • Data Science • Model Deployment
-
----
-
 ## 🏁 Final Note
 
 This project reflects my foundational understanding of machine learning workflows, including preprocessing, model selection, and deployment using Flask.
