@@ -32,9 +32,8 @@ This project is preserved in its original working state to showcase my early han
 ## 🧠 Machine Learning Workflow
 
 ```text
-Data Collection → Data Cleaning → Feature Engineering → Outlier Removal →
-Encoding & Scaling → Model Training → Model Evaluation →
-Model Selection (Ridge) → Model Saving → Flask Integration → Prediction Output
+Data Collection → Data Cleaning → Feature Engineering → Outlier Removal → Encoding & Scaling →
+Model Training → Model Evaluation → Model Selection (Ridge) → Model Saving → Flask Integration → Prediction Output
 ```
 
 ---
@@ -144,9 +143,11 @@ http://127.0.0.1:5000/
 
 ## 📸 Output Screenshots
 
-* Input Page
-* Sample User Input
-* Predicted Price Output
+### Input Page
+![Input](snapshots/Snap-1.png)
+
+### Predicted Price Output
+![Output](snapshots/Snap-2.png)
 
 ---
 
